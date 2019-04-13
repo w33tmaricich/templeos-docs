@@ -15,26 +15,26 @@ keys (CTRL, ALT, +SHIFT) or a combination of for more than one second to see
 a window that displays available shortcuts while the AutoComplete window is
 active.
 
-`<DIRECTIONAL-ARROWS>`: Move the cursor.
+- `<DIRECTIONAL-ARROWS>`: Move the cursor.
 
-`<ALT-a>`: Opens AutoComplete
-`<ALT-SHIFT-a>`: Closes AutoComplete
+- `<ALT-a>`: Opens AutoComplete
+- `<ALT-SHIFT-a>`: Closes AutoComplete
 
-`<SPACE>`: Left click
-`<ENTER>`: Right click
-`<F1>`: Open Help page and index
-`<CTRL-m>`: Open your Personal Menu
-`<ESC>`: Save & Exit, accept dialog.
-`<SHIFT-ESC>`: Abort & Exit
-`<WINDOWS KEY>`: Pull-Down Menu (Navigate with arrows while holding)
+- `<SPACE>`: Left click
+- `<ENTER>`: Right click
+- `<F1>`: Open Help page and index
+- `<CTRL-m>`: Open your Personal Menu
+- `<ESC>`: Save & Exit, accept dialog.
+- `<SHIFT-ESC>`: Abort & Exit
+- `<WINDOWS KEY>`: Pull-Down Menu (Navigate with arrows while holding)
 
-`<CTRL-ALT-t>`: New terminal window.
-`<CTRL-b>`: toggles border window
-`<ALT-m>`: Maximizes a window
-`<ALT-v>`: Vertically tiles windows.
-`<ALT-h>`: Horizontally tiles windows.
-`<CTRL-ALT-n>`: Switches to the next window.
-`<CTRL-ALT-x>`: Kills a window.
+- `<CTRL-ALT-t>`: New terminal window.
+- `<CTRL-b>`: toggles border window
+- `<ALT-m>`: Maximizes a window
+- `<ALT-v>`: Vertically tiles windows.
+- `<ALT-h>`: Horizontally tiles windows.
+- `<CTRL-ALT-n>`: Switches to the next window.
+- `<CTRL-ALT-x>`: Kills a window.
 
 Customize the ALT keys in `~/HomeKeyPlugIns.HC`.
 
