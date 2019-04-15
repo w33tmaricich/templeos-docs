@@ -39,10 +39,10 @@ active.
 Customize the ALT keys in `~/HomeKeyPlugIns.HC`.
 
 ### Mouse+Keyboard Controls
-`Ctrl-LeftDrag`: Grab-Scroll Window
-`Ctrl-Right`: Recenter view after scrolling
-`<CTRL-ALT-z>`: Zoom screen on mouse
-`<CTRL-ALT-Z>`: Unzoom screen on mouse
+- `Ctrl-LeftDrag`: Grab-Scroll Window
+- `Ctrl-Right`: Recenter view after scrolling
+- `<CTRL-ALT-z>`: Zoom screen on mouse
+- `<CTRL-ALT-Z>`: Unzoom screen on mouse
 
 ## Functions
 
